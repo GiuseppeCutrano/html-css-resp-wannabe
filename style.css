@@ -72,7 +72,7 @@ img {
   clear: both;
 }
 
-
+/* phone video */
 @media screen and (max-width: 480px){
 
   #lezioni .row>.left,
