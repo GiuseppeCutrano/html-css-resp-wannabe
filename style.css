@@ -83,9 +83,29 @@ img {
   #why .row>.first,
   #why .row>.second,
   #why .row>.third
-   {
-    width: 100%;
+  {
+     width: 100%;
+     margin: 0px;
+
   }
   img {
     height: 100px;
+
   }
+
+#lezioni .row, #why .row {
+  background-color: #F2F2CD;
+  width: 100%;
+  margin: 0px;
+}
+#steps .row {
+  width: 100%;
+  margin: 0px;
+}
+* {
+ box-sizing: border-box;
+ margin: 0;
+ padding: 0;
+}
+
+}
