@@ -107,7 +107,7 @@ img {
 }
 
 
-@media screen and (max-width: 780px){
+@media screen and (max-width: 1020px){
 
   #lezioni .row>.left,
   #lezioni .row>.right,
@@ -130,11 +130,11 @@ img {
 #lezioni .row, #why .row {
   background-color: #e6b12c;
   width: 100%;
-  margin: 0px;
+
 }
 #steps .row {
   width: 100%;
-  margin: 0px;
+  
 }
 * {
  box-sizing: border-box;
